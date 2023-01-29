@@ -1,2 +1,2 @@
-# WhatsApp-integrasi-SLiMS
-WhatsApp Integrasi SLiMS
+# WhatsApp Integrasi SLiMS
+Integrasi WhatsApp API Gateway support Semua versi SLiMS
